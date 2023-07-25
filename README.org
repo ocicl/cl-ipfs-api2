@@ -1,0 +1,10 @@
+* cl-ipfs-api2
+
+Lisp bindings for the IPFS HTTP API.
+
+|---------+-------------------------------------------|
+| source  | git:https://github.com/JadedCtrl/cl-ipfs-api2.git   |
+| commit  | 3ee52c8  |
+| systems | cl-ipfs-api2 |
+|---------+-------------------------------------------|
+

@@ -4,6 +4,6 @@ Lisp bindings for the IPFS HTTP API.
 
 |---------+---------------------------------------------------|
 | source  | git:https://github.com/JadedCtrl/cl-ipfs-api2.git |
-| commit  | 13cd109                                           |
+| commit  | d5c2aa2                                           |
 | systems | cl-ipfs-api2                                      |
 |---------+---------------------------------------------------|
